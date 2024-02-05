@@ -1,0 +1,15 @@
+C:\xxx\alice\data\bin\Debug\net8.0\data.deps.json
+C:\xxx\alice\data\bin\Debug\net8.0\data.runtimeconfig.json
+C:\xxx\alice\data\bin\Debug\net8.0\data.dll
+C:\xxx\alice\data\bin\Debug\net8.0\data.pdb
+C:\xxx\alice\data\obj\Debug\net8.0\data.csproj.AssemblyReference.cache
+C:\xxx\alice\data\obj\Debug\net8.0\data.GeneratedMSBuildEditorConfig.editorconfig
+C:\xxx\alice\data\obj\Debug\net8.0\data.AssemblyInfoInputs.cache
+C:\xxx\alice\data\obj\Debug\net8.0\data.AssemblyInfo.cs
+C:\xxx\alice\data\obj\Debug\net8.0\data.csproj.CoreCompileInputs.cache
+C:\xxx\alice\data\obj\Debug\net8.0\data.sourcelink.json
+C:\xxx\alice\data\obj\Debug\net8.0\data.dll
+C:\xxx\alice\data\obj\Debug\net8.0\refint\data.dll
+C:\xxx\alice\data\obj\Debug\net8.0\data.pdb
+C:\xxx\alice\data\obj\Debug\net8.0\data.genruntimeconfig.cache
+C:\xxx\alice\data\obj\Debug\net8.0\ref\data.dll
