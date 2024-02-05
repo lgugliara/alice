@@ -1,9 +1,9 @@
-# Build and Release Folders
 api/bin/
+api/bin/*
+api/obj/
 api/obj/*
-data/bin/
-data/obj/
-Properties/*
 
-# Other files and folders
-.vs/*
+data/bin/
+data/bin/*
+data/obj/
+data/obj/*
